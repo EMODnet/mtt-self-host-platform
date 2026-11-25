@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@remix-run/router": "1.15.3",
+    "@remix-run/router": "1.23.3",
     "@remotion/media": "^4.0.547",
     "@remotion/player": "^4.0.474",
     "@splinetool/react-spline": "^4.1.0",
